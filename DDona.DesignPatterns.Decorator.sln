@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDona.DesignPatterns.Decorator.Models", "DDona.DesignPatterns.Decorator.Models\DDona.DesignPatterns.Decorator.Models.csproj", "{CC4CE488-21BF-4D6A-BDC2-6F4DE55AA1C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDona.DesignPatterns.Decorator.AppConsole", "DDona.DesignPatterns.Decorator.AppConsole\DDona.DesignPatterns.Decorator.AppConsole.csproj", "{71FF5CD6-1A3C-47C2-B2E8-3537AC41A3B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC4CE488-21BF-4D6A-BDC2-6F4DE55AA1C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4CE488-21BF-4D6A-BDC2-6F4DE55AA1C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4CE488-21BF-4D6A-BDC2-6F4DE55AA1C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4CE488-21BF-4D6A-BDC2-6F4DE55AA1C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71FF5CD6-1A3C-47C2-B2E8-3537AC41A3B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71FF5CD6-1A3C-47C2-B2E8-3537AC41A3B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71FF5CD6-1A3C-47C2-B2E8-3537AC41A3B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71FF5CD6-1A3C-47C2-B2E8-3537AC41A3B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {247E7C4C-017D-41B8-860B-384F8BDD2EE9}
+	EndGlobalSection
+EndGlobal
